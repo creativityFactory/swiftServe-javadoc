@@ -1,0 +1,9 @@
+com.creativityfactory.swiftserver.annotation
+com.creativityfactory.swiftserver.app
+com.creativityfactory.swiftserver.error
+com.creativityfactory.swiftserver.middleware
+com.creativityfactory.swiftserver.middleware.rest
+com.creativityfactory.swiftserver.persistence
+com.creativityfactory.swiftserver.request
+com.creativityfactory.swiftserver.response
+com.creativityfactory.swiftserver.utils
